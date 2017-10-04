@@ -87,6 +87,37 @@ body {
 }
 
 /*
+ * Hero
+ */
+
+.hero-container {
+    display: flex;
+    max-width: 1600px;
+    margin: auto;
+    
+    .hero-image-container {
+        flex: 1;
+        align-self: flex-end;
+        
+        img {
+            width: 100%;
+            margin-bottom: 0;
+        }
+    }
+    
+    @media (max-width: 925px) {
+        .hero-image-container {
+            display: none;
+        }
+    }
+    
+    .hero-text-container {
+        flex: 2;
+        padding: 50px;
+    }
+}
+
+/*
  * Container
  *
  * Center the page content.
@@ -244,6 +275,42 @@ img {
   border-radius: 5px;
 }
 
+.footer-image {
+    text-align: center;
+    
+    img {
+        display: inline;
+    }
+}
+
+.svg-icon {
+  display: inline-flex;
+  align-self: center;
+  position: absolute;
+  height: 1em;
+  width: 1em;
+}
+.svg-icon img {
+  height: 1em;
+  width: 1em;
+  margin-left: 0.1em;
+}
+
+.svg-intext {
+    display: inline-flex;
+    align-self: center;
+    position: absolute;
+    height: 1em;
+    width: 1em;
+}
+
+.svg-intext img{
+    height: 1em;
+    width: 1em;
+    margin-left: 0.1em;
+    margin-top: 0.125em;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
@@ -274,7 +341,11 @@ tbody tr:nth-child(odd) th {
 	text-align: center;
 	padding-top: 26px;
 	padding-bottom: 1rem;
-  border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    
+    &.no-margin-bottom {
+        margin-bottom: 0;
+    }
 }
 
 .masthead-title {
@@ -320,6 +391,51 @@ h3.masthead-title {
 
 @media (max-width: 320px) {
   h3.masthead-title {
+  margin-top: 2em;
+  margin-left: 0%;
+  margin-right: 0%;
+  }
+}
+
+/* Footer */
+
+.footer {
+  padding-top: 16px;
+  border-top: 1px solid #eee;
+}
+
+.footer-quote {
+  text-align: justify;
+  font-style: italic;
+  font-family: $main-font;
+  font-size: 0.66rem;
+  margin-top: 2px;
+  margin-bottom: 0;
+  color: #505050;
+  line-height: 1em;
+}
+
+.footer-source {
+  text-align: right;
+  font-family: $main-font;
+  font-size: .80rem;
+  font-weight: 300;
+  color: $link-color;
+  letter-spacing: .05rem;
+}
+
+
+@media (max-width: 48em) {
+  .footer-quote {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+}
+
+@media (max-width: 320px) {
+  .footer-quote {
   margin-top: 2em;
   margin-left: 0%;
   margin-right: 0%;

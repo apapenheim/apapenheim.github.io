@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en-ca">
 
   {% include head.html %}
 
-  <body>
+  <body class="layout-reverse sidebar-overlay">
 
     <!-- This if statement decides which sidebar to use -->
     {% if page.toc %}
@@ -16,20 +16,38 @@
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
-      <div class="masthead">
+      <div class="masthead {% if page.url == '/' %}no-margin-bottom{% endif %}">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title | newline_to_br }}</a>
-            <br><small>{{ site.tagline }}</small>
+            {% if page.url == '/' %}
+              <a href="{{ site.baseurl }}/" title="Home">{{ site.title | newline_to_br }}</a>
+            {% else %}
+              <a href="{{ site.baseurl }}/trc/" title="Home">TheRedChannel.</a>
+              <br><small>{{ site.tagline }}</small>
+            {% endif %}
           </h3>
         </div>
       </div>
+        
+ 
+      {% if page.url == '/' %}
+          <div class="hero-container">
+              <div class="hero-image-container">
+                  <img src="{{ site.baseurl }}/images/home.png" alt="Home Page">
+              </div>
 
-      <div class="container content" id="main">
-        {{ content }}
-      </div>
+              <div class="hero-text-container">
+                  {{ content }}
+              </div>
+          </div>    
+
+        {% else %}
+          <div class="container content" id="main">
+            {{ content }}
+          </div>
+        {% endif %}
     </div>
-
+    
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
@@ -83,5 +101,20 @@
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
+    <div class="wrap">
+        <div class="footer">
+        <div class="container">
+        <div class="footer-quote">
+            Nationalism and globalization do have the tendency to circumscribe our outlook and simplify matters. This is why what is increasingly needed is a sophisticated and serious blending of the emancipatory possibilities of both nationalism and internationalism. Hence, in the spirit of Walt Kelly as well as Karl Marx in a good mood, I suggest the following slogan for young scholars: <br><br> Frogs in their fight for emancipation will only lose by crouching in their murky coconut half-shells. Frogs of the world unite!<br><br>
+        </div>
+        <div class="footer-source">
+              <a href="https://www.versobooks.com/books/2135-a-life-beyond-boundaries">Benedict Anderson</a>
+        </div>
+        <div class="footer-image">
+             <img src="{{ site.baseurl }}/assets/frog_footer.png" alt="Footer">
+        </div>
+        </div>
+        </div>
+    </div>
   </body>
 </html>
