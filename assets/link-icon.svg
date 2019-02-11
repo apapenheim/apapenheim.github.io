@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="60px" height="60px" viewBox="-289 539 60 60" style="enable-background:new -289 539 60 60;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;opacity:0.1;}
+	.st2{opacity:0.4;fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:10;enable-background:new    ;}
+	.st3{opacity:0.1;fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:10;enable-background:new    ;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:10;}
+	.st5{display:inline;opacity:0.3;}
+	.st6{display:inline;opacity:0.1;fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:10;enable-background:new    ;}
+	.st7{display:inline;opacity:0.6;}
+	.st8{fill:#00B28E;}
+	.st9{fill:#AC4142;}
+</style>
+<g id="Grid" class="st0">
+	<g id="Keylines" class="st1">
+		<g>
+			<line class="st2" x1="-992" y1="1322.3" x2="-884" y2="1430.3"/>
+			<line class="st3" x1="-884" y1="1322.3" x2="-992" y2="1430.3"/>
+		</g>
+		<g>
+			<line class="st4" x1="-992" y1="1322.3" x2="-884" y2="1430.3"/>
+			<line class="st4" x1="-884" y1="1322.3" x2="-992" y2="1430.3"/>
+		</g>
+	</g>
+	<g id="Circle" class="st5">
+		<g>
+			<path d="M-938,1350.6c14.2,0,25.7,11.5,25.7,25.7c0,14.2-11.5,25.7-25.7,25.7s-25.7-11.5-25.7-25.7
+				C-963.7,1362.1-952.2,1350.6-938,1350.6 M-938,1350.3c-14.4,0-26,11.6-26,26c0,14.4,11.6,26,26,26s26-11.6,26-26
+				C-912,1361.9-923.6,1350.3-938,1350.3L-938,1350.3z"/>
+		</g>
+	</g>
+	<g id="Inner_Circle" class="st5">
+		<g>
+			<path d="M-938,1358.6c9.8,0,17.7,7.9,17.7,17.7c0,9.8-7.9,17.7-17.7,17.7s-17.7-7.9-17.7-17.7
+				C-955.7,1366.5-947.8,1358.6-938,1358.6 M-938,1358.3c-9.9,0-18,8.1-18,18c0,9.9,8.1,18,18,18s18-8.1,18-18
+				C-920,1366.4-928.1,1358.3-938,1358.3L-938,1358.3z"/>
+		</g>
+	</g>
+	<path id="Horizontal_Rectangle" class="st6" d="M-916,1394.3h-44c-2.2,0-4-1.8-4-4v-28c0-2.2,1.8-4,4-4h44c2.2,0,4,1.8,4,4v28
+		C-912,1392.5-913.8,1394.3-916,1394.3z"/>
+	<path id="Vertical_Rectangle" class="st6" d="M-956,1398.3v-44c0-2.2,1.8-4,4-4h28c2.2,0,4,1.8,4,4v44c0,2.2-1.8,4-4,4h-28
+		C-954.2,1402.3-956,1400.5-956,1398.3z"/>
+	<path id="Square" class="st6" d="M-920,1398.3h-36c-2.2,0-4-1.8-4-4v-36c0-2.2,1.8-4,4-4h36c2.2,0,4,1.8,4,4v36
+		C-916,1396.5-917.8,1398.3-920,1398.3z"/>
+	<g id="Circular_Mask__x28_Pixel_x29_" class="st7">
+		<g>
+			<path class="st8" d="M-938,1340.9c19.5,0,35.4,15.9,35.4,35.4s-15.9,35.4-35.4,35.4s-35.4-15.9-35.4-35.4
+				S-957.5,1340.9-938,1340.9 M-938,1340.3c-19.9,0-36,16.1-36,36c0,19.9,16.1,36,36,36s36-16.1,36-36
+				C-902,1356.4-918.1,1340.3-938,1340.3L-938,1340.3z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st9" d="M-238.9,550.4c0,0-0.1-0.1-0.1-0.2c-0.1-0.2-0.1-0.3-0.2-0.3v-0.2l-0.7-0.7h-0.2l-0.3-0.2h-16.8
+		c-1.4,0-2.5,1.1-2.5,2.5c0,1.4,1.1,2.5,2.5,2.5h9.7l-11.2,11c-1,0.9-1,2.5-0.1,3.5c0,0,0.1,0.1,0.1,0.1c0.5,0.5,1.1,0.7,1.8,0.8
+		c0.7,0,1.3-0.3,1.8-0.8l11.2-11.2v9.7c0,1.4,1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5v-15.8c0-0.2,0-0.3-0.1-0.5V550.4z"/>
+	<path class="st9" d="M-248.2,584h-26v-25.9h8.5v-5.1h-11c-1.3,0-2.5,1-2.5,2.4c0,0.1,0,0.1,0,0.2v30.9c0,1.3,1,2.5,2.4,2.5
+		c0.1,0,0.1,0,0.2,0h31c1.4,0,2.5-1.1,2.5-2.5v-11h-5.1V584z"/>
+</g>
+</svg>
