@@ -52,7 +52,11 @@ Any textbook published following 2008 or anyone selling marketing services will 
 
 # They're Running
 
+<br>
+<br>
+
 ## John Delaney
+<br>
 ![Delaney 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/DEL-logo.png)
 
 **Date Announced:** 28 July 2017. (An amazing *562 days* at date of publication.)
@@ -110,7 +114,11 @@ There you have it. A hackneyed and unoriginal review of what is, I must confess,
 * *[Greenhead Design](https://www.greenheaddesign.com/2020/) gave it a shrug.*
 * *[An anonymous brand guru](https://www.washingtonian.com/2019/01/31/how-good-are-these-2020-campaign-logos-we-asked-a-branding-expert/) in The Washingtonian decries its utter conventionality.*
 
+<br>
+<br>
+
 ## Ken Nwadike
+<br>
 ![Nwadike 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/KEN-logo.png)
 
 **Date Announced:** 18 October 2017.
@@ -160,7 +168,11 @@ I think I need a hug now. Bonne chance, Ken. Or Kenny. Either and/or both!
 *Who is talking about it?*
 * *Only mention I can find is a tweet by the good people at the [Center for American Politics and Design](https://twitter.com/politicsndesign/status/1089238794468052999).*
 
+<br>
+<br>
+
 ## Andrew Yang
+<br>
 ![Yang 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/YANG-logo.png)
 
 **Date Announced:** 6 November 2017.
@@ -208,7 +220,10 @@ Above, the single product in the category titled "Fun Stuff," is a dim sum lunch
 * *[Anchored Creative](https://anchoredcreative.studio/blog/2019/1/22/ranking-the-2020-democratic-presidential-candidates-branding-amp-what-it-says-about-their-campaigns#yang) wrote it up. (Their score: 5/10)*
 * *Quillette asked him a question about the future direction of his brand, to which I will not link. Because to hell with Quillette.*
 
+<br>
+<br>
 ## Harry Braun
+<br>
 ![Braun 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/HB-logo.png)
 
 **Date Announced:** 7 December, 2017.
@@ -223,7 +238,11 @@ The type, if we must do this, is Ascender's [Trubuchet Bold](https://www.myfonts
 
 Bonne chance, Harry!
 
+<br>
+<br>
+
 ## Robby Wells
+<br>
 ![Wells 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/ROB-logo.png)
 
 **Date Announced:** 12 May, 2018.
@@ -236,7 +255,11 @@ The website is extremely lengthy and not very good, and as such will be passed o
 
 Bonne chance, Robby!
 
+<br>
+<br>
+
 ## John McAfee
+<br>
 ![McAfee 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/MC-logo.png)
 
 **Date Announced:** 3 June, 2018.
@@ -275,7 +298,11 @@ Turning to the physicals: Defying all expectations, McAfee does not appear to be
 
 [→ Vector copies of McAfee's logo are available as a graphics package here. ←](https://f001.backblazeb2.com/file/the-red-channel/2020identity-feb/mcafee_2020.7z)
 
+<br>
+<br>
+
 ## Tulsi Gabbard
+<br>
 ![Gabbard 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/TG-logo.png)
 
 **Date Announced:** 11 January, 2019.
@@ -334,7 +361,11 @@ Aloha, Senator Gabbard (D-Amascus)![^fn8] Until next time.
 * *[Greenhead Design](https://www.greenheaddesign.com/2020/) digs the mark, but not Tulsi.*
 * *An anonymous branding expert (we grant anonymity for graphics criticism now?) in [The Washingtonian](https://www.washingtonian.com/2019/01/31/how-good-are-these-2020-campaign-logos-we-asked-a-branding-expert/) dwells on its "apocalyptic" qualities.*
 
+<br>
+<br>
+
 ## Julián Castro
+<br>
 ![Castro 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/JC-logo.png)
 
 **Date Announced:** 12 January, 2019.
@@ -381,7 +412,11 @@ You can proclaim your love for Julián on your car, on your person, and on your 
 * *[Greenhead Design](https://www.greenheaddesign.com/2020/) is a fan.*
 * *Hunter Schwarz does the mark justice in [Cover/Line](https://mailchi.mp/cnn/trumps-getting-the-blame?e=254af11cf7).*
 
+<br>
+<br>
+
 ## Kamala Harris
+<br>
 ![Harris 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/KH-logo.png)
 
 **Date Announced:** 21 January, 2019.
@@ -437,7 +472,11 @@ Harris is selling some stuff, as well. A couple t-shirts, a ball cap, tote bag, 
 * *[TypeNetwork](https://www.typenetwork.com/news/article/kamala-harris-runs-with-type-network-type) can speak to the letter-y bits much more competently than I did.*
 * *Jonathan Last over at NeverTrump cloister [The Bulwark](https://thebulwark.com/kamala-harriss-logo-is-a-disaster-heres-why/) has a different take entirely.*
 
+<br>
+<br>
+
 ## Marianne Williamson
+<br>
 ![Williamson 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/MW-logo.png)
 
 **Date Announced:** 28 January, 2019.
@@ -482,7 +521,11 @@ Marianne, I am sympathetic to your views on human capital mobility. Everything e
 
 [→ Vector copies of Williamson's logo are available as a graphics package here. ←](https://f001.backblazeb2.com/file/the-red-channel/2020identity-feb/williamson_2020.7z)
 
+<br>
+<br>
+
 ## Cory Booker
+<br>
 ![Booker 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/CB-logo.png)
 
 **Date Announced:** 1 February, 2019.
@@ -537,7 +580,11 @@ The merchandise is interesting. I hold as an article of faith that the modularit
 * *[Anchored Creative](https://anchoredcreative.studio/blog/2019/1/22/ranking-the-2020-democratic-presidential-candidates-branding-amp-what-it-says-about-their-campaigns#booker) has an excellent point on the massive disconnect between the typefaces chosen and the message conveyed by the actual text.*
 * *["How can we trust you to be president when we can't even trust you to pick one good typeface!?"](https://www.greenheaddesign.com/2020/) Indeed.*
 
+<br>
+<br>
+
 ## Elizabeth Warren
+<br>
 ![Warren 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/EW-logo.png)
 
 **Date Announced:** 9 February, 2019.
@@ -594,7 +641,11 @@ I have more questions than answers about attribution. Being that she was running
 * *[Election Season](https://www.electionseason.co/snapshots/senator-elizabeth-warrens-online-presence-following-exploratory-committee-announcement/) also noticed the complaint form.*
 * *[Washingtonian Anon](https://www.washingtonian.com/2019/01/31/how-good-are-these-2020-campaign-logos-we-asked-a-branding-expert/) pegs it as '40s design.*
 
+<br>
+<br>
+
 ## Amy Klobuchar
+<br>
 ![Klobuchar 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/AK-logo.png)
 
 **Date Announced:** 10 February, 2019.
@@ -653,7 +704,11 @@ I would love to assess the merchandise, but links to the store are dead.
 
 # They're Basically Running
 
+<br>
+<br>
+
 ## Kirsten Gillibrand
+<br>
 ![Gillibrand 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/KG-logo.png)
 
 **Exploratory Committee Date:** 15 January, 2019.
@@ -691,7 +746,11 @@ More disappointing is that, save for the donate button, the [Alternate Gothic](h
 * *See Hunter Schwarz in [Cover/Line](https://mailchi.mp/cnn/the-state-of-the-union-is-tbd?e=dc7ec5fe1b) on what a difference ten years can make.*
 * *[Washingtonian Anon](https://www.washingtonian.com/2019/01/31/how-good-are-these-2020-campaign-logos-we-asked-a-branding-expert/) digs the surname, is cold on the choice of type.*
 
+<br>
+<br>
+
 ## Dario Hunter
+<br>
 ![Hunter 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/DH-logo.png)
 
 **Exploratory Committee Date:** 21 January, 2019.
@@ -708,7 +767,11 @@ Bonne chance, Dario!
 
 → Vector copies of Hunter's logo are available as a graph–haaa, I am kidding. ←
 
+<br>
+<br>
+
 ## Pete Buttigieg
+<br>
 ![Buttigieg 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/PB-logo.png)
 
 **Exploratory Committee Date:** 23 January, 2019.
@@ -747,7 +810,11 @@ I have had my fill. Feel free to read about [Pete feeding his husband a scotch e
 * *[Anchored Creative](https://anchoredcreative.studio/blog/2019/1/22/ranking-the-2020-democratic-presidential-candidates-branding-amp-what-it-says-about-their-campaigns#buttigieg) drops the plaudits "wholesome," "safe," and "not boring."*
 * *[Greenhead Design](https://www.greenheaddesign.com/2020/) has some long-form thoughts on sexual preferences and aesthetic sensibilities that may not be overly kind.*
 
+<br>
+<br>
+
 ## Sherrod Brown
+<br>
 ![Brown 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/SB-logo.png)
 
 **Exploratory Committee Date:** Not yet
@@ -779,7 +846,11 @@ Richard Ojeda could take a page from Brown on merchandising what I assume is the
 *Who is talking about it?*
 * *BuzzFeed threw it on [their colour wheel of 2020 candidates](https://www.buzzfeednews.com/article/katherinemiller/campaign-logos-gillibrand-kamala-warren-sherrod).*
 
+<br>
+<br>
+
 ## Howard Schultz
+<br>
 ![Schultz 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/HS-logo.png)
 
 **Date of announcement:** Not yet, but one would not know that from TV.
@@ -815,7 +886,11 @@ These are milquetoast type choices. The application is devoid of thought and per
 
 # They Ran
 
+<br>
+<br>
+
 ## Richard Ojeda
+<br>
 ![Ojeda 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/RO-logo.png)
 
 **Date of Suspension:** 25 January, 2019.
@@ -892,7 +967,7 @@ If you saw something that made you *un*happy today, [please flame me on Twitter]
 [^fn8]: Noooooo, I came so close!
 [^fn9]: Please, I beg of you as a citizen and a neighbour, do NOT put your 2020 yard signs up in February of 2019.
 [^fn10]: Hello from Canada, Senator Harris! [Please pick any other slogan.](https://soundcloud.com/user-431153776/doug-ford-for-the-people) [Literally anything else.](https://www.gettyimages.ca/detail/news-photo/attendees-cheer-and-hold-placards-during-a-campaign-rally-news-photo/959346242) [And we will be chill.](https://twitter.com/ontarionewsnow/status/1041080552638439424)
-[^fn11]: Yeah, I have receipts. [image]
+[^fn11]: [Yeah, I have receipts.]({{ site.baseurl }}/images/2020identity/img/MW-extra.png)
 [^fn12]: Klobuchar's use of Avenir as a secondary does, however, imply some fondness for the Futur-alikes.
 [^fn13]: My own theory here is that Schultz signed off in the incorrect place on some graphics proofs and enjoyed the effect far too much.
 [^fn14]: I do not mind a D or an O, to be quite honest.
