@@ -348,7 +348,9 @@ What is in Tulsi's swag bag?
 
 ![Gabbard 2020 Merch]({{ site.baseurl }}/images/2020identity/merch/TG-merch.png)
 
-Buttons, stickers, yard signs[^fn7], shirts, oh my! No legibly-sized images of said products anywhere within the webstore, oh my! This is the first instance in which I have seen the monochromatic mark applied to a background with the full-colour gradient, and I appreciate it a good deal more. It is a smarter application, for sure. This is perfectly serviceable merchandise. *Nice, but I am not running out into traffic to buy anything.* I do wonder about that solid-colour t-shirt, though. Her gradient clearly would screen quite poorly (and thus make economical production of shirts at scale a challenging proposition). Is it possible that there are further difficulties reproducing this mark, even in digital printing? It feels out-of-place to have one product so clearly lacking the vibrancy of the others. This identity is a prime candidate for dye sublimation, which one hopes the campaign will explore further in the future. Should one wish to buy one of those bland $30 t-shirts anyways, apparently Tulsi is telepathic! At no point in time during the checkout procedure is one asked which *size* of t-shirt they would like to order.
+Buttons, stickers, yard signs[^fn7], shirts, oh my! No legibly-sized images of said products anywhere within the webstore, oh my! This is the first instance in which I have seen the monochromatic mark applied to a background with the full-colour gradient, and I appreciate it a good deal more. It is a smarter application, for sure. This is perfectly serviceable merchandise. *Nice, but I am not running out into traffic to buy anything.*
+
+I do wonder about that solid-colour t-shirt, though. Her gradient clearly would screen quite poorly (and thus make economical production of shirts at scale a challenging proposition). Is it possible that there are further difficulties reproducing this mark, even in digital printing? It feels out-of-place to have one product so clearly lacking the vibrancy of the others. This identity is a prime candidate for dye sublimation, which one hopes the campaign will explore further in the future. Should one wish to buy one of those bland, $30 t-shirts anyways, apparently Tulsi is telepathic! At no point in time during the checkout procedure is one asked which *size* of t-shirt they would like to order.
 
 Aloha, Senator Gabbard (D-Amascus)![^fn8] Until next time.
 
@@ -378,7 +380,7 @@ There are many different constructions of this mark, all dark navy, all boxed. S
 
 It is a nice, strong typeface. It works great in the mark. It works less-great when used on teeny-tiny headings throughout the website. A vibrant blue, while this specific hue verges on Democratic cliché, is necessary to break up the very dark navy which makes up the bulk of the mark. I enjoy it. This is a well-executed monochromatic palette.
 
-Putting a bisected box around one's name feels like an unusual choice given that it is a hallmark choice of the anti-design featured by <del>the recent unpleasantness</del> the very stable genius. Frankly, if there is anything that I wish to see breaking up a boxed-in name these days, it is an acute diacritic mark on a Spanish name. Nice work.
+Putting an impaled box around one's name feels like an unusual choice given that it is a hallmark choice of the anti-design featured by <del>the recent unpleasantness</del> the very stable genius. Frankly, if there is anything that I wish to see breaking up a boxed-in name these days, it is an acute diacritic mark on a Spanish name. Nice work.
 
 ![Castro 2020 Website]({{ site.baseurl }}/images/2020identity/web/JC-web.png)
 
@@ -388,7 +390,7 @@ The web presence is a custom WordPress theme titled "Castro for the Future." My 
 
 Monochromatic blue! How refreshing.
 
-💡 Did you know: Castro sits alone with Klobuchar among candidates eschewing a tint or shade of red on their donation buttons. *The cool table!*
+💡 **Did you know:** Castro sits alone with Klobuchar among candidates eschewing a tint or shade of red on their donation buttons. *The cool table!*
 
 ![Castro 2020 Donate]({{ site.baseurl }}/images/2020identity/img/JC-img1.png)
 
@@ -402,7 +404,7 @@ There is a bit of merch, as well…
 
 ![Castro 2020 Merch]({{ site.baseurl }}/images/2020identity/merch/JC-merch.png)
 
-You can proclaim your love for Julián on your car, on your person, and on your lawn.[^fn9] Deep navy is a safe colour to work with, so it is hard to make any of this look bad, per se. The buttons would benefit from some text or graphic elements above the logo to provide a balance to the URL displayed below. Even better, the campaign could consider rectangular buttons (a higher unit cost likely precludes this). I do wish the shade of navy had been matched across all merchandise, as the apparel does feel slightly disjoint. That t-shirt, in the slightly-off navy, will run the buyer $25.
+You can proclaim your love for Julián on your car, on your person, and on your lawn.[^fn9] Deep navy is a safe colour to work with, so it is hard to make any of this look bad, per se. The buttons would benefit from some text or graphic elements above the logo to provide a balance to the URL displayed below, though I have the same problem with the heavy weights of Mallory being less-successful in small-size applications. Even better, the campaign could consider close-cropped, rectangular buttons (a higher unit cost likely precludes this). I do wish the shade of navy had been matched across all merchandise, as the apparel does feel slightly disjoint. That t-shirt, in the slightly-off navy, will run the buyer $25.
 
 [→ Vector copies of Castro's logo are available as a graphics package here. ←](https://f001.backblazeb2.com/file/the-red-channel/2020identity-feb/castro_2020.7z)
 
