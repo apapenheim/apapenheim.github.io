@@ -77,7 +77,7 @@ One must also keep in mind that Delaney has been running for a long, *long* time
 
 Was this a smart change? I am undecided. On the one hand, the switch to ITC Avant Garde does clean things up a bit, but offers precious little that would assuage the tremendous blandness of the work. One must praise the designer in exercising the exceptional restraint required to refrain from angular ligatures, which would have taken the identity in an entirely different direction, indeed. The mark may benefit from an Avant Garde-alike that has been re-conceived to contemporary standards, such as Sharp Sans …except, oh, <a href="https://vllg.com/news/244" target="_blank">someone already tried that</a>.
 
-I vastly prefer the monochromatic palette of the original, which firmly situates this work more firmly as a Democratic Party primary identity. While both opting for a scheme of blue and white (as in the original) and blue, red, and white (as refreshed) are contextually cliché, the former feels more situationally appropriate. Not to mention, there are [other, competent branding efforts built on a palette of blues and white](#julián-castro). It can be done. Leave the little shock of red for the 2020 General, John!
+I vastly prefer the monochromatic palette of the original, which situates this work more firmly as a Democratic Party primary identity. While both schemes of blue and white (as in the original) and blue, red, and white (as refreshed) are contextually cliché, the former feels more situationally appropriate. Not to mention, there are [other, competent branding efforts built on a palette of blues and white](#julián-castro). It can be done. Leave the little shock of red for the 2020 General, John!
 
 ![Delaney 2020 Logo-alt2]({{ site.baseurl }}/images/2020identity/img/DEL-img2.png)
 
@@ -87,7 +87,7 @@ The symbolic mark needs to be stronger than this, particularly as there is no fu
 
 ![Delaney 2020 Website]({{ site.baseurl }}/images/2020identity/web/DEL-web.png)
 
-Bad news for those unfond of the full-screen splashpage, as we will be seeing a lot of them today. Immediately upon scrolling, thrust forward and leapfrogged down to the next full-screen element, the viewer is treated to a fleeting glance of… a dress shirt? (See the uncharacteristically bright bar towards the top in the above screenshot.) It appears that a video ad now overlays the original content on the splash screen, and the two objects are of different dimensions.
+Bad news for those unfond of the full-screen splashpage, as we will be seeing a lot of them today. Immediately upon scrolling, thrust forward and leapfrogged down to the next full-screen element, the viewer is treated to a fleeting glance of… a dress shirt? (See the uncharacteristically bright bar towards the top in the above screenshot.) It appears that a video element now overlays the original content on the splash screen, and the two objects are of different dimensions.
 
 The inattention to detail continues through to the remainder. Colour is not handled with care in this web presence, and it seems every full-screen, browser-hijacking slide in this internet-ified PowerPoint deck has a different overlay and entirely disparate character. While the photography may have been intelligently selected, each is so individually processed and distinctive that I see no real "family resemblance" between any of the work. The duotone landscape shown above the footer is really funky. Rusty trees remind me of the <a href="https://en.wikipedia.org/wiki/Red_Forest" target="_blank">Chernobyl Exclusion Zone</a>, though – for those playing along at home in the Old Line State – I am sure that Western Maryland has copious idyllic charm.
 
@@ -159,7 +159,7 @@ A downright quixotic choice <a href="https://kennwadikejr.com/videos-and-photos/
 
 ![Nwadike 2020 Merch]({{ site.baseurl }}/images/2020identity/merch/KEN-merch.png)
 
-No branded merch, as the website is broken. That is, of course, unless anyone fancies <a href="https://www.amazon.com/Free-Hugs-Project-Official-T-Shirt/dp/B07L42L55D" target="_blank">the <i>official (??)</i> Free Hugs shirt</a>. The type on it is Monotype's glorious and perennially appropriate <a href="https://catalog.monotype.com/family/monotype/impact" target="_blank">Impact</a>. The meme font. Super. I will be noting the cost of every candidate's t-shirt throughout this article, as screen-printed campaign t-shirts are the one fairly homogeneous good that everyone whose merchandise is noted today offers for sale. At $18.95 on Amazon, Kenny's is the least expensive of the lot.
+No branded merch, as the website is broken. That is, of course, unless anyone fancies <a href="https://www.amazon.com/Free-Hugs-Project-Official-T-Shirt/dp/B07L42L55D" target="_blank">the <i>official (??)</i> Free Hugs shirt</a>. The type on it is Monotype's glorious and perennially appropriate <a href="https://catalog.monotype.com/family/monotype/impact" target="_blank">Impact</a>. The meme font. Super. I will be noting the cost of every candidate's t-shirt throughout this article, as printed campaign t-shirts are the one fairly homogeneous good that everyone whose merchandise is noted today offers for sale. At $18.95 on Amazon, Kenny's is the least expensive of the lot.
 
 I think I need a hug now. Bonne chance, Ken. Or Kenny. Either and/or both!
 
@@ -270,7 +270,7 @@ No FEC filings, so without trudging through a Discord server full of malcontents
 
 Also highly atypical is that neither the candidate's given name(s), nor surname appear anywhere on  – or in any construction of  –  the logo. It is the closest any candidate comes to a pure, visuographic symbol. With such a small type sample to parse, McAfee could be using just about any simple pixel font in there. How about we say it is Andreas Nylin's <a href="https://webfonts.ffonts.net/BitDust-Two.font" target="_blank">BitDust</a>, as it is good-n'-free?
 
-There is a familiarity to it. If <a href="https://www.mantusmarine.com/" target="_blank">Mantus Marine</a> were to branch out into <a href="https://twitter.com/officialmcafee/status/1079863420458074112" target="_blank">facilitating whale sex tourism</a>, this would be the mark for them. If the <a href="https://www.melbourne.vic.gov.au/SiteCollectionDocuments/com-sponsor-branding-guidelines.pdf" target="_blank">City of Melbourne</a> started selling <a href="https://www.wired.com/2012/12/ff-john-mcafees-last-stand/" target="_blank">bath salts and murder weapons in Belize</a>, this would be the mark for them. My own pet theory? If you take <a href="https://en.wikipedia.org/wiki/McAfee#/media/File:McAfee_logo.png" target="_blank">the red, segmented glyph</a> with which his namesake computer security company previously used to identify itself and add <a href="https://www.mcafee.com/enterprise/en-us/mcafee-brand.html" target="_blank">the weight and geometric sharpness</a> of their recent rebrand… you come pretty close to the campaign logo:
+There is a familiarity to it. If <a href="https://www.mantusmarine.com/" target="_blank">Mantus Marine</a> were to branch out into <a href="https://twitter.com/officialmcafee/status/1079863420458074112" target="_blank">facilitating whale sex tourism</a>, this would be the mark for them. If the <a href="https://www.melbourne.vic.gov.au/SiteCollectionDocuments/com-sponsor-branding-guidelines.pdf" target="_blank">City of Melbourne</a> started selling <a href="https://www.wired.com/2012/12/ff-john-mcafees-last-stand/" target="_blank">bath salts and murder weapons in Belize</a>, this would be the mark for them. My own pet theory? If you take <a href="https://en.wikipedia.org/wiki/McAfee#/media/File:McAfee_logo.png" target="_blank">the red, segmented glyph</a> with which his namesake computer security company formerly identified itself and add <a href="https://www.mcafee.com/enterprise/en-us/mcafee-brand.html" target="_blank">the weight and geometric sharpness</a> of their recent rebrand… you hints in the direction of the campaign logo:
 
 ![McAfee 2020 Logo Construction]({{ site.baseurl }}/images/2020identity/img/MC-img1.png)
 
@@ -321,9 +321,9 @@ Nope, not a fan of that background colour in the slightest. I could use a ray of
 
 All that said, it is a gradient, that is a choice *made*, and it is a plausibly defensible one. One can argue that the concept of everlasting sunset  – *of Hawaii* – is so central to Gabbard's brand values as to justify its use. It is my view that there exist more successful ways to go about doing so. As a final thematic note, the sunset motif does feel a bit perplexing. The connection to Hawaii is quite easy to make. The love, admiration, and esteem in which she holds her home is clear, but *having the sun set on one's nascent campaign* is a less-desirable and just as simple interpretation. (<a href="https://www.politico.com/story/2019/01/29/tulsi-gabbard-2020-election-1134055" target="_blank">Perhaps that hits a bit close to home.</a>)
 
-The rounding of the first and ultimate glyphs, while I understand the intention of the artist, feels amiss. Attempts to will the viewer to believe there is balance where no balance exists is an act of confidence that will be received poorly. It is particularly jarring as the upper right of the I is left integral. Of course, some of this may stem from my own personal revulsion towards the arbitrary rounding of objects which have no business being round in the first place.[^fn6]
+The rounding of the first and ultimate glyphs, while I understand the intention of the artist, feels amiss. Attempts to will the viewer to believe there is balance where no balance exists is an act of confidence that will be received poorly. Of course, some of this may stem from my own personal revulsion towards the arbitrary rounding of objects which have no business being round in the first place.[^fn6]
 
-Let us agree to disagree, commentariat! Gabbard's tasteful logo will make a very fresh, contemporary smudge in small-size applications.
+Let us agree to disagree, commentariat! Gabbard's tasteful logo will make a very *fresh, contemporary* smudge in small-size applications.
 
 ![Gabbard 2020 Website]({{ site.baseurl }}/images/2020identity/web/tgweb.png)
 ![Gabbard 2020 Web Thumbs]({{ site.baseurl }}/images/2020identity/img/TG-img2.png)
@@ -380,7 +380,7 @@ There are many different constructions of this mark, all dark navy, all boxed. S
 
 It is a nice, strong typeface. It works great in the mark. It works less-great when used on teeny-tiny headings throughout the website. A vibrant blue, while this specific hue verges on Democratic cliché, is necessary to break up the very dark navy which makes up the bulk of the mark. I enjoy it. This is a well-executed monochromatic palette.
 
-Putting an impaled box around one's name feels like an unusual choice given that it is a hallmark choice of the anti-design featured by <del>the recent unpleasantness</del> the very stable genius. Frankly, if there is anything that I wish to see breaking up a boxed-in name these days, it is an acute diacritic mark on a Spanish name. Nice work.
+Putting a broken box around one's name feels like an unusual choice given that it is a hallmark choice of the anti-design featured by <del>the recent unpleasantness</del> the very stable genius. Frankly, if there is anything that I wish to see breaking up a boxed-in name these days, it is an acute diacritic mark on a Spanish name. Nice work.
 
 ![Castro 2020 Website]({{ site.baseurl }}/images/2020identity/web/JC-web.png)
 
@@ -488,7 +488,7 @@ Harris is selling some stuff, as well. A couple t-shirts, a ball cap, tote bag, 
 
 This confuses me. It is by no means a bad wordmark, but it is not *Marianne*. The blue is rather pedestrian. The choice of type, I do not mind. It is a solid, neutral grotesque. Marianne Williamson… *neutral?* Toss the mark into reverse image search, and it suggests "gadget" as a search term.[^fn11] Click on over to "Visually similar images," and one can scroll through a mind-numbing, endless sea of dark blue wordmarks in dark blue, neutral typefaces. That does not make it bad, but that does make it far from original. And a world away from the new-age-saturated, self-help and spiritual avatar that is Marianne.
 
-The complementing type is FattiPatti, from the very-extinct type foundry <a href="http://luc.devroye.org/fonts-27509.html" target="_blank">Casady & Greene</a>. It is not too dissimilar from Milton Glaser's famed <a href="http://containerlist.glaserarchives.org/138/a-brief-tour-of-milton-glaser-s-typography" target="_blank">Baby Teeth</a>. See, now *that* is the ridiculously obscure, this-is-a-display-font-with-truly-limited-use-cases kind of selection I expect!
+Light pink as the secondary colour, on the other hand, is a quite stylish choice. The complementing type is FattiPatti, from the very-extinct type foundry <a href="http://luc.devroye.org/fonts-27509.html" target="_blank">Casady & Greene</a>. It is not too dissimilar from Milton Glaser's famed <a href="http://containerlist.glaserarchives.org/138/a-brief-tour-of-milton-glaser-s-typography" target="_blank">Baby Teeth</a>. See, now *that* is the ridiculously obscure, this-is-a-display-font-with-truly-limited-use-cases kind of selection I expect!
 
 …and the sheer strangeness of that choice, I must admit, does make me feel a bit of affection. Thus concludes the Era of Good Feelings regarding type in this review:
 
@@ -496,7 +496,7 @@ The complementing type is FattiPatti, from the very-extinct type foundry <a href
 
 A handful of full width headings and certain pieces of text used more as graphic art pieces than any kind of textual information are set in Saul-Bass-via-Matt-Terich's <a href="https://typographica.org/on-typography/saul-bass-website-and-hitchcock-font-are-back/" target="_blank">Hitchcock</a>. How fun is that?! Less fun when one, for some reason, pairs it with a Garamond-alike.
 
-The majority of the headings are in Christian Thalmann's <a href="https://fonts.google.com/specimen/Cormorant+Garamond" target="_blank">Cormorant Garamond</a>. Cormorant is downright elegant and extravagant type. It is an re-interpretation of Garamond *for use as a display font*. The style called "Cormorant Garamond" is intended to be its body-friendly counterpart, dialling the flamboyance down to eleven (from, y'know, thirty-six). I have tried and failed many times to use it intelligently as a text face. Certain pages on Williamson's website <a href="https://www.marianne2020.com/connect" target="_blank">try to do so anyways</a>. It is a beautiful (and free!) font, but do not try to make it perform a role for which it is not suited. Get it out of the text entirely, and put the headings into Cormorant Regular so they will really shine. If you are writing body text, spring for a Garamond licence. (Or, even better yet, use something safer for the web than Garamond.)
+The majority of the headings are in Christian Thalmann's <a href="https://fonts.google.com/specimen/Cormorant+Garamond" target="_blank">Cormorant Garamond</a>. Cormorant is downright elegant and extravagant type. It is a re-interpretation of Garamond *for use as a display font*. The style called "Cormorant Garamond" is intended to be its body-friendly counterpart, dialling the flamboyance down to eleven (from, y'know, thirty-six). I have tried and failed many times to use it intelligently as a text face. Certain pages on Williamson's website <a href="https://www.marianne2020.com/connect" target="_blank">try to do so anyways</a>. It is a beautiful (and free!) font, but do not try to make it perform a role for which it is not suited. Get it out of the text entirely, and put the headings into Cormorant Regular so they will really shine. If you are writing body text, spring for a Garamond licence. (Or, even better yet, use something safer for the web than Garamond.)
 
 Paired with Cormorant in the body and nav is ITF's ubiquitous <a href="https://fonts.google.com/specimen/Poppins" target="_blank">Poppins</a>, a lively geometric sans-serif. Cheap and cheerful (free!). I like it when paired with other weights in the same family, and find it gets along best with itself. I fear that this choice does not play nicely with Cormorant, and would prefer to see a rethink here, or at least keeping the geometrics relegated entirely to the nav buttons.
 
@@ -553,7 +553,7 @@ Exciting and unique for this go-around, Booker's team is springing for a custom 
 
 Onto the web presence. It is high crime to deface one's own logotype. It is high narcissism to deface one's own logotype *with a selfie*. Why, that is as outlandish as [overlaying a logotype with a signature](#howard-schultz). It does nothing but titrate down brand value and, in this case, consume an awful lot of prime real estate at the top of the page.
 
-I love that Cory wishes to communicate with us the story of his upbringing. I love that before doing that, before even sharing his video ad, he solicits input on challenges facing the viewer's community. He is listening and sharing, but this website – it shouts. Cory, you are cool as a cucumber, but this webpage is too trendy by half and does a disservice in drowning out its own message.
+I love that Cory wishes to communicate with us the story of his upbringing. I love that before doing so, before even sharing his video ad, he solicits input on challenges facing the viewer's community. He is listening and sharing, but this website – it shouts. Cory, you are cool as a cucumber, but this webpage is too trendy by half and does a disservice in drowning out its own message.
 
 Oh, and the fact that two examples of the logotype, visible at the same time, use different shades of red:
 
@@ -618,7 +618,7 @@ Far be it from me to critique the premise of this page, running out in front of 
 
 The typography is all in the family: Hoefler's <a href="https://www.typography.com/fonts/ringside/overview/" target="_blank">Ringside</a> family, that is. Picking type from within a single family is an smart way to make good type pairings quickly. The strong family resemblance aids cohesion between text elements on the page. But this is no zestless monotony: The diversity within the suite (32 styles!) maintains interest and keeps the end result from feeling like a banal, beyond-homogeneous product. Tactfully combining wide and condensed typefaces in the headings provides ample opportunity to inject flair into this project.
 
-The choice of Ringside is smart for another reason, in that it is deeply endearing to the Democratic faithful. Hoefler is best known for Gotham, and Democratic loyalty has not strayed far in the years since '08. Case in point: The first example that came to my mind, when thinking of any other page using Ringside, was none other than <a href="https://barackobama.com/" target="_blank">The Office of Barack and Michelle Obama</a>.
+The choice of Ringside is smart for another reason, in that it is deeply endearing to the Democratic faithful. Hoefler is best known for Gotham, and Democratic loyalty has not strayed far in the years intervening since '08. Case in point: The first example that came to my mind, when thinking of any other page using Ringside, was none other than <a href="https://barackobama.com/" target="_blank">The Office of Barack and Michelle Obama</a>.
 
 Let's go shopping…
 
@@ -683,7 +683,7 @@ The site generally strays little from its palette, and there is continuity of co
 
 ![Klobuchar 2020 Wellstone]({{ site.baseurl }}/images/2020identity/img/AK-img2.png)
 
-What a nice little hat tip to the late, <a href="https://en.wikipedia.org/wiki/Paul_Wellstone" target="_blank">DFL great Paul Wellstone</a>. The homage is not a direct knock-off, and that is extremely smart. A serif terminating in an exclamation mark <a href="https://www.adweek.com/creativity/jeb-bush-unveiled-his-2016-logo-and-internet-shouted-unkind-things-it-165344/" target="_blank">carries significant presidential baggage</a>.
+What a nice little hat tip to the DFL's <a href="https://en.wikipedia.org/wiki/Paul_Wellstone" target="_blank">late, great Paul Wellstone</a>. The homage is not a direct knock-off, and that is extremely smart. A serif terminating in an exclamation mark <a href="https://www.adweek.com/creativity/jeb-bush-unveiled-his-2016-logo-and-internet-shouted-unkind-things-it-165344/" target="_blank">carries significant presidential baggage</a>.
 
 While I am excited about the green, I am simultaneously wary of it. It is very, very close to a true green. Klobuchar is running for president, not selling me a tractor. A fresh and interesting choice, though demanding of both sparing and smart application. Do not leave the viewer awash in it. The line between verdure and véreux is quite thin, indeed. Let us hope this campaign does not reach its terminus in merely looking green around the gills.
 
@@ -693,7 +693,7 @@ While I am excited about the green, I am simultaneously wary of it. It is very, 
 
 Type is consistent between Amy's logo and website. Despite the avalanche of webfonts upon pageload, it does not load the heading font, Mackay, as headings are constructed as SVGs and then uploaded as assets. Each heading is also partly set in cyan-blue Avenir Next Bold, mirroring the wordmark and joining the Avenir in the body.
 
-The text on the website is much more successful than in the logo, in no small part thanks to the absence of Freight as a confounding variable. I may also interpret the web type favourably due to Avenir Next's affinity for use in light body copy, even as many designers shy away from such an application. (See the <a href="https://www.amsterdam.nl/stijlweb/bouwstenen/" target="_blank">City of Amsterdam</a> for a triumph of Avenir as a text face.)
+The text on the website is much more successful than in the logo, in no small part thanks to the absence of Freight italics as a confounding variable. I may also interpret the web type favourably due to Avenir Next's affinity for use in light body copy, even as many designers shy away from such an application. (See the <a href="https://www.amsterdam.nl/stijlweb/bouwstenen/" target="_blank">City of Amsterdam</a> for a triumph of Avenir as a text face.)
 
 I would love to assess the merchandise, but links to the store are dead.
 
@@ -716,7 +716,7 @@ I would love to assess the merchandise, but links to the store are dead.
 
 **Exploratory Committee Date:** 15 January, 2019.
 
-I do hope that Gillibrand goes far. More than anything, what the people of this country (or, more specifically, my entire hair colour and I) need is a renewed confidence in blondes seeking elected office. This mark, however, may not be the best vehicle with which to do so. The overall construction is quite simple, there are some serious faults with the spacing on the type, and the typeface itself, while bold and clean, also happens to be rather pedestrian. Perhaps it feels that way as this year is replete with more successful examples of similar type. A compressed sans-serif in all caps sure seems to be the defining characteristic of many a candidate in the 2020 field.
+I do hope that Gillibrand goes far. More than anything, what the people of this country (or, more specifically, my entire hair colour and I) need is a renewed confidence in blondes seeking elected office. This mark, however, may not be the best vehicle with which to do so. The overall construction is quite simple, there are some serious faults with the spacing on the type, and the typeface itself, while bold and clean, also happens to be rather humdrum and common. Perhaps it feels that way as this year is replete with more successful examples of similar type. A compressed sans-serif in all caps sure seems to be the defining characteristic of many a candidate in the 2020 field.
 
 The pink is the hero of this logo. The pink is what holds me back from utterly panning it. An arresting choice, a stand-out choice, and a really smart way to move forward as a progressive option in this primary. Had she elected for a more conventional red or blue, the whole endeavour would be an order of magnitude more boring, and the structural faults of the logo become more difficult to forgive.
 
@@ -758,7 +758,7 @@ More disappointing is that, save for the donate button, the <a href="https://www
 
 **Exploratory Committee Date:** 21 January, 2019.
 
-Oh, Dario. An openly gay man from Jersey who the very fine people at Wikipedia tell me is the first Muslim-born individual to be ordained as a rabbi. He is amazing, and I dig his energy. On a personal level. If the Green Party ever gets a budget, he should consider hiring a branding agency.
+Oh, Dario. An openly gay man from Jersey who the very fine people at Wikipedia tell me is the first Muslim-born individual to be ordained as a rabbi. He is amazing, and I dig his energy. On a personal level. I do not dig anything about his mark, however. Undulating slices of flag are over. Electing to use three faces of Palatino in the wordmark (I see Roman, Italic, and Bold) makes no sense. While beating Klobuchar to the punch on green, I must understandably award fewer points for that, as Hunter is seeking the Green Party nomination, where such a choice is horrendously unoriginal. The green stars are of egregiously poor construction. To my eye, they appear to be drawn freehand with a mouse, and not exceptionally well even by those standards. If the Green Party ever gets a budget, Hunter should consider hiring a branding agency.
 
 ![Hunter 2020 Website]({{ site.baseurl }}/images/2020identity/web/DH-web.png)
 
