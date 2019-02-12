@@ -298,7 +298,7 @@ The rounding of the first and ultimate glyphs, while I understand the intention 
 
 Let us agree to disagree, commentariat! Gabbard's tasteful logo will make a very fresh, contemporary smudge in small-size applications.
 
-![Gabbard 2020 Website]({{ site.baseurl }}/images/2020identity/web/TG-web.png)
+![Gabbard 2020 Website]({{ site.baseurl }}/images/2020identity/web/tgweb.png)
 ![Gabbard 2020 Web Thumbs]({{ site.baseurl }}/images/2020identity/img/TG-img2.png)
 
 Gabbard's web presence is a bit more fleshed-out now compared to [the last time I attempted to access her site](https://twitter.com/apapenheim/status/1086660905801109505). I particularly enjoy the moves in the direction towards standardization of appearance across the different forms for submitting one's personal data. There are talented people at work here. The photography offered by Gabbard is of excellent quality and is thematically consistent. Navigation is painless, save if one attempts to join the press email list, at which point they will lose the footer and all links to points elsewhere on her website. The footer, however, is an issue. Such a large field of black does not really comport with the Hawaiian sunset.
