@@ -46,7 +46,7 @@ Any textbook published following 2008 or anyone selling marketing services will 
 
 ---
 
-<p class="centered small">Note: This is a collation of what has every right to be eighteen individual posts. There are a lot of images and it gets <i>lengthy</i>. Check out the hamburger button at the top right should you wish to jump directly to a favourite. Oh, and I do not own and make no claims of ownership over any of the graphic assets depicted below, which are the property of the relevant campaigns. Any identifying marks down there appear for editorial and informational purposes in the service of commentary on each aspirant's campaign visual identity. I have no affiliation with -and claim no affiliation with -any campaign. Anything in here which might seem to imply otherwise is hashtag-fake-news-media. Okay, allez-go!</p>
+<p class="centered small">Note: This is a collation of what has every right to be eighteen individual posts. There are a lot of images and it gets <i>lengthy</i>. Check out the hamburger button at the top right should you wish to jump directly to a favourite. Oh, and I do not own and make no claims of ownership over any of the graphic assets depicted below, which are the property of the relevant campaigns. Any identifying marks down there appear for editorial and informational purposes in the service of commentary on each aspirant's campaign visual identity. I have no affiliation with – and claim no affiliation with – any campaign. Anything in here which might seem to imply otherwise is hashtag-fake-news-media. Okay, allez-go!</p>
 
 ---
 
@@ -369,6 +369,7 @@ Aloha, Senator Gabbard (D-Amascus)![^fn8] Until next time.
 ![Castro 2020 Logo]({{ site.baseurl }}/images/2020identity/logo/JC-logo.png)
 
 **Date Announced:** 12 January, 2019.
+
 **Slogan:** "One Nation. One Destiny."
 
 Emphasis on the given name, for obvious reasons [depending on the viewer's](https://en.wikipedia.org/wiki/Fidel_Castro) particular [familiarity with U.S. politics](https://en.wikipedia.org/wiki/Joaquin_Castro). Though even given the contributing factors, it is welcome a welcome change to see men running for office not shy from identifying by their given names.
