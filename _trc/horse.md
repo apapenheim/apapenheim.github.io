@@ -94,7 +94,7 @@ This exercise is also very much in the spirit of the work of one Seth Abramson. 
 Per <a href="https://www.bleedingcool.com/2014/01/02/authorship-is-censorship-bleeding-cool-in-conversation-with-shia-labeouf/" target="_blank">Shia LeBoeuf, "repurposing" Goldsmith without attribution in a meta-modern manifesto</a>:
 >"It's not plagiarism in the digital age  – it's repurposing."
 
-Repurposing, if it is indeed art, does still demand a modicum of tact. This landed Abramson himself in hot water when, in 2014, he distastefully <a href="https://www.huffpost.com/entry/the-last-words-of-mass-mu_b_5387953" target="_blank">derived poetry from the Isla Vista incel murderer's manifesto</a>.
+Repurposing, if it is indeed art, does still demand a modicum of tact. This landed Abramson himself in hot water when, in 2014, he distastefully <a href="https://www.huffpost.com/entry/the-last-words-of-mass-mu_b_5387953" target="_blank">derived poetry from the Isla Vista mass-murdering incel's manifesto</a>.
 
 So, here we have a deliberately uncreative bot, mimicking the form of a Weird Twitter phenom from half a decade ago right down to the avatar. Its creative works are entirely derived from the words of another – in this case, the Mueller Report. Markov processes are also indeed an exercise in what Abramson may call "<a href="https://www.huffpost.com/entry/reggie-watts-gives-the-we_b_3635871" target="_blank">ordered nonsense</a>." It is besting Abramson in his own topic area, and with a meta-modern work, to boot.
 
