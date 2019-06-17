@@ -673,7 +673,7 @@ The welcome screen on pageload, however, I do not share any warm feelings for:
 
 ![Klobuchar 2020 Splashscreen]({{ site.baseurl }}/images/2020identity/img/AK-img1.png)
 
-The dialogue floating in a sea of navy turned me sour on the colour choices. This feels vintage, and not in a good way. The green, on ivory, with a side of vivid blue is a miss, and shouts its dissent from the modern, flat design of the form itself.
+The dialogue floating in a sea of navy turned me sour on the colour choices. This feels vintage, and not in a good way. The green, on ivory, with a side of vivid blue is a miss and shouts its dissent from the modern, flat design of the form itself.
 
 And change up that close button! It is far too near to the edge, and the circle makes no sense when everything else on the modal is square. Heavens above, make the thing that viewers are most likely to click on comport with the rest of the design.
 
@@ -728,7 +728,7 @@ To reiterate, the splash of pink is great. It makes for a really distinctive spo
 
 ![Gillibrand 2020 Website]({{ site.baseurl }}/images/2020identity/web/KG-web.png)
 
-I think this is a really sharp website for an exploratory committee, and I cannot wait to see what it metamorphoses into. The continued use of pink as a spot colour really did help endear me to the logo. Nonetheless, it is readily apparent that it was constructed under a time and/or budget constraint. The disconnect with the logo is severe, as if the two were constructed by spruned agencies which no longer speak to one another. The multicoloured social media panels, far from breaking up any perceived monotony, create a cacophonous air in the middle of the page. Fear not continuing the monochromatic palette through the page; fulfill its manifest destiny from header to footer! Be bold!
+I think this is a really sharp website for an exploratory committee, and I cannot wait to see what it metamorphoses into. The continued use of pink as a spot colour really did help endear me to the logo. Nonetheless, it is readily apparent that it was constructed under a time and/or budget constraint. The disconnect with the logo is severe, as if the two were constructed by spurned agencies which no longer speak to one another. The multicoloured social media panels, far from breaking up any perceived monotony, create a cacophonous air in the middle of the page. Fear not continuing the monochromatic palette through the page; fulfill its manifest destiny from header to footer! Be bold!
 
 ![Gillibrand 2020 Type]({{ site.baseurl }}/images/2020identity/type/KG-type.png)
 
@@ -736,14 +736,14 @@ CSTM's <a href="https://store.typenetwork.com/foundry/cstmfonts/fonts/navigo" ta
 
 The text face is the very free <a href="https://fonts.google.com/specimen/Libre+Franklin" target="_blank">Libre Franklin</a>. It does the job.
 
-More disappointing is that, save for the donate button, the <a href="https://www.linotype.com/1082317/alternate-gothic-no-2-product.html" target="_blank">Alternate Gothic</a> used in the logo is not really visible elsewhere on the page. Hot pink is not Atlas. It can not be relied upon to uphold the stylistic linkage between logotype and webpage on its own.
+More disappointing is that save for the donate button, the <a href="https://www.linotype.com/1082317/alternate-gothic-no-2-product.html" target="_blank">Alternate Gothic</a> used in the logo is not visible elsewhere on the page. Hot pink is not Atlas. It can not be relied upon to uphold the stylistic linkage between logotype and webpage on its own.
 
 [→ Vector copies of Gillibrand's logo are available as a graphics package here. ←](https://f001.backblazeb2.com/file/the-red-channel/2020identity-feb/gillibrand_2020.7z)
 
 *Who is talking about it?*
 * *<a href="https://anchoredcreative.studio/blog/2019/1/22/ranking-the-2020-democratic-presidential-candidates-branding-amp-what-it-says-about-their-campaigns#gillibrand" target="_blank">"Very OK" - Anchored Creative</a>*
 * *BuzzFeed <a href="https://www.buzzfeednews.com/article/katherinemiller/campaign-logos-gillibrand-kamala-warren-sherrod" target="_blank">spotted the pink</a>.*
-* *<a href="https://www.electionseason.co/snapshots/senator-kirsten-gillibrands-website-following-presidential-exploratory-committee-launch/" target="_blank">Election Season</a> wrote up the website pretty thoroughly, and produced a video with some cheerful music.*
+* *<a href="https://www.electionseason.co/snapshots/senator-kirsten-gillibrands-website-following-presidential-exploratory-committee-launch/" target="_blank">Election Season</a> wrote up the website pretty thoroughly and produced a video with some cheerful music.*
 * *<a href="https://www.greenheaddesign.com/2020/" target="_blank">Greenhead Design</a> goes thermonuclear, deems it "somehow worse than Ojeda's."*
 * *Natalya Jaime covered the pink for <a href="https://www.hollywoodreporter.com/news/color-pink-enters-presidential-race-candidate-kirsten-gillibrand-1176749" target="_blank">The Hollywood Reporter</a>.*
 * *See Hunter Schwarz in <a href="https://mailchi.mp/cnn/the-state-of-the-union-is-tbd?e=dc7ec5fe1b" target="_blank">Cover/Line</a> on what a difference ten years can make.*
@@ -830,7 +830,7 @@ Naturally, not everyone sees a canary. <a href="https://twitter.com/NeilAnAlien/
 
 ![Brown 2020 Web]({{ site.baseurl }}/images/2020identity/web/SB-web.png)
 
-There are some competent people backing up <a href="https://dignityofwork.com/" target="_blank">this web presence</a>. There is a lot to like, even if I am not entirely sold on the textured, powder blue background. The animations are slick and the colours match the logo. While I feel the headings, particularly in the event calendar, would benefit from an upsize to distinguish them from the body text, the light weight chosen for the body does cut down on that confusion. Brown also has a custom text highlight colour set on his website, a touch I really enjoy. <a href="https://digital.scotch.io/" target="_blank">Scotch Digital</a> does great work.
+There are some competent people backing up <a href="https://dignityofwork.com/" target="_blank">this web presence</a>. There is a lot to like, even if I am not entirely sold on the textured, powder blue background. The animations are slick, and the colours match the logo. While I feel the headings, particularly in the event calendar, would benefit from an upsize to distinguish them from the body text, the light weight chosen for the body does cut down on that confusion. Brown also has a custom text highlight colour set on his website, a touch I really enjoy. <a href="https://digital.scotch.io/" target="_blank">Scotch Digital</a> does great work.
 
 ![Brown 2020 Palette]({{ site.baseurl }}/images/2020identity/colour/SB-colour.png)
 
@@ -883,7 +883,7 @@ These are milquetoast type choices. The application is devoid of thought and per
 [→ Vector copies of Schultz's logo are available as a graphics package here. ←](https://f001.backblazeb2.com/file/the-red-channel/2020identity-feb/schultz_2020.7z)
 
 *Who is talking about it?*
-* *<a href="https://www.washingtonian.com/2019/01/31/how-good-are-these-2020-campaign-logos-we-asked-a-branding-expert/" target="_blank">Washingtonian Anon</a> does what must done and makes the Gavin Belson comparison.*
+* *<a href="https://www.washingtonian.com/2019/01/31/how-good-are-these-2020-campaign-logos-we-asked-a-branding-expert/" target="_blank">Washingtonian Anon</a> does what must be done and makes the Gavin Belson comparison.*
 
 ---
 
