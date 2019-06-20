@@ -100,11 +100,13 @@ This is a communications shop... we talk about stuff like logos here.<sup><a hre
 
 To begin, this is a project for which the vast majority of new construction affects the regions of Québec. It is curious and disappointing, then, that <a href="https://www.nationalobserver.com/2016/08/15/news/are-pipeline-companies-discriminating-against-francophones" target="_blank">TransCanada did not immediately make their filings with the National Energy Board available in French</a>, the sole official language of Québec and the first-and-only language used by many *en région*. Pretend for a moment that you sit on the council of an MRC in Québec, understandably curious about the impact of this mega-project on your community, only to discover that the architect does not respect you enough to communicate in your first language. That is not to say TransCanada made no effort to <del>enrage</del> engage Quebecers. TransCanada's lobbying effort consisted of taking on the services of former Québec Premier Jean Charest, who <a href="https://www.nationalobserver.com/2016/08/04/news/canada-pipeline-panel-apologizes-releases-records-meeting-charest" target="_blank">almost immediately found himself at the centre of a conflict-of-interest scandal</a>, triggering the resignation of all three Energy East reviewers at the National Energy Board.
 
+![Grid of Québec Hats]({{ site.baseurl }}/images/layingpipe/PIPE_pane6.jpg)
+
 TransCanada's fellow travellers would have been well-served to remember that Québec can and does read what they are saying, even if it is in a non-official language. We do, in fact, notice when Brad Wall <a href="https://www.nationalobserver.com/2016/01/22/news/brad-wall-provokes-anti-quebec-insults-over-pipeline-opposition" target="_blank">very publicly and repeatedly misunderstands how transfer payments work</a>. But what is to be done for a mega-project lacking any economic imperative? Many boosters fall back onto tropes of nationalism. Chintzy schemes, such as eyeroll-inducing plans to mandate <a href="https://www.cbc.ca/news/canada/new-brunswick/scheer-oil-origin-stickers-1.4185690" target="_blank">slapping little flags onto every gas pump in the country</a> debase the entire pitch. The argument that this is a purposeful and necessary bit of infrastructure, not in any way entangled in nation-building designs, would be much more persuasive if the backers refrained from making those exact nation-building arguments in ideologically-sympathetic media clubhouses (which, again, Quebecers see and read).<sup><a href="#fn12" id="ref12">12</a></sup> 
 
 There are reasonable disagreements as to whether the identity of the Canadian state is postnational or plurinational. Many corners of public life here in Québec do opt to articulate some vision of the latter. An idea that gains little purchase, however, is the thought that this entire place can be (or that it is indeed desireably) conceived of as one singular and uninterrupted, in any way homogeneous nation. Further, if one is to go about building a nation, tremendous pieces of export infrastructure are an outmoded means of doing so. The days of haughtily clearing great swathes of this country without consultation and consociation have irrevocably recededed into the past. The notion of nation-building is pollyannaish at the absolute best, and erasing the spirited distinctiveness and discord that makes this mega-federation a nonpareil – the most excellent place to live – at worst.
 
-There are many reasons the Energy East proposal died. That the project ignored the preferences, experiences, and input of Quebecers is certainly among them.
+**There are many reasons the Energy East proposal died. That the project ignored the preferences, experiences, and input of Quebecers is certainly among them.**
 
 ![Grid of Pipe Hats]({{ site.baseurl }}/images/layingpipe/PIPE_pane5.jpg)
 
@@ -120,7 +122,7 @@ That which sticks in my craw is neither Khan the man, nor the zero seats that hi
 
 I will be frank and say that I see the new Premier of Alberta as irrationally expressing support for actions which will impose unacceptable costs.
 
-# Sorry eh
+# Sorry, eh?
 
 ![Cover Image]({{ site.baseurl }}/images/layingpipe/PIPE_cover3.jpg)
 <p class="centered small"><i>Allow me to clarify that in no universe do I hate Alberta.</i></p>
