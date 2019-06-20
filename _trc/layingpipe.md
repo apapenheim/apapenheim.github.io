@@ -6,9 +6,9 @@ editor: Andrew Papenheim
 rights: All Rights Reserved
 source: TheRedChannel
 publication-date: 9 April 2019
-excerpt: "Municipalities are branding themselves to curry the favour of the DNC and win the national convention. TRC reviews what is wise, and what is not, about their efforts."
-ogimage: https://66.media.tumblr.com/909d0e873d351dd32755c45b88592af2/tumblr_pofe1n8JzU1y6hh5ro2_1280.png
-twitterimage: https://66.media.tumblr.com/89227c28bf0c3922ccbe8c2ce79c42ab/tumblr_pofe1n8JzU1y6hh5ro1_640.jpg
+excerpt: "The leader of the Alberta Liberal Party (unsuccessfully) threw his raunchy red hat into the ring. Let's consider what red hats mean as symbols, and what the heck to do with Alberta."
+ogimage: https://66.media.tumblr.com/8f1d9cc9efbd1ce52bad66bf7ad68987/tumblr_ptecu3PYaL1y6hh5ro1_1280.png
+twitterimage: https://66.media.tumblr.com/35d3d67a825c1adfbf9726f688c3016c/tumblr_ptecu3PYaL1y6hh5ro2_640.png
 ---
 
 ![Cover Image]({{ site.baseurl }}/images/layingpipe/PIPE_cover.jpg)
