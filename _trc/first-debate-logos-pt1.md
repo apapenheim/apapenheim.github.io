@@ -462,7 +462,7 @@ Aside from the serif in the wordmark, colour is the real point of departure from
 
 These colours, when the colourways are not managed by someone with the drive to wield office supplies as projectiles, can fall out-of-balance and telegraph their ill-will towards one another with abandon. When this happens, the entire effort appears vintage, and not a particularly appealing vintage. The ivory *could* feel quite expensive, though in an application with a whole bunch of shouty colours and a jumble of typefaces, refinement may be a reach.
 
-I must remind the candidate yet another time:
+On the green, I must remind the candidate yet another time:
 
 > Klobuchar is running for president, not selling me a tractor. A fresh and interesting choice, though demanding of both sparing and smart application. Do not leave the viewer awash in it. The line between verdure and véreux is quite thin, indeed. Let us hope this campaign does not reach its terminus in merely looking green around the gills.
 
