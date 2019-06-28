@@ -434,7 +434,7 @@ And the colours are not quite there yet. Observe the stylistic alternate:
 
 ![Amy Alt]({{ site.baseurl }}/images/firstdebate/AK-img1.png)
 
-This is a disaster. It is three typefaces *and* three colours. The brighter blue feels quite uncomfortable alongside green, and none of it works at all against ivory.
+This is a disaster. It is three typefaces *and* three colours. Oh, and it is on a field of ivory. *Four colours?!* The brighter blue feels quite uncomfortable alongside green, and none of it works at all against ivory.
 
 It is distinctive, it looks like nothing else, but perhaps there are reasons for that. Three typefaces, in three sizes, in three colours, and three styles imparts a great deal of eclecticism into the effort, which I fear that the sheer mojo-bestowing BDE of selecting a serif may not wholly overcome.
 
