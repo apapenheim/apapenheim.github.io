@@ -1,0 +1,39 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>TheRedChannel</title>
+  <subtitle>Something to declare</subtitle>
+  <icon>{{ 'assets/trc-icon.svg' | absolute_url }}</icon>
+  <link href="{{ page.url | absolute_url }}" rel="self" />
+  <link href="{{ '/' | absolute_url }}/" hreflang="en" />
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ page.url | absolute_url | xml_escape }}</id>
+  <author>
+    <name>{{ site.author.name | xml_escape }}</name>
+    <email>{{ site.author.email | xml_escape }}</email>
+    <uri>{{ site.author.url | xml_escape }}</uri>
+  </author>
+
+  {% assign posts = site.trc | sort: "publication-date" | reverse %}
+  {% for post in posts %}
+  {% assign post_url = post.url | absolute_url | xml_escape %}
+  <entry xml:lang="{{ post.lang | default: "en" }}">
+    <title>{{ post.title | xml_escape }}</title>
+    <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
+    <published>{{ post.publication-date | date_to_xmlschema }}</published>
+    <id>{{ post_url }}</id>
+    {% if post.author != "Andrew Papenheim" %}
+    <author>
+      <name>{{ post.author | xml_escape }}</name>
+    </author>
+    {% endif %}
+
+    <summary>{{ post.excerpt }}</summary>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ post.ogimage | absolute_url }}" />
+    <content type="html" xml:base="{{ post_url }}">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>

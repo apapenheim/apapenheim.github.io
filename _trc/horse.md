@@ -5,7 +5,7 @@ author: Andrew Papenheim
 editor: Andrew Papenheim
 rights: All Rights Reserved
 source: TheRedChannel
-publication-date: 19 April 2019
+publication-date: 2019-04-19
 excerpt: "The Mueller Report is out. What is the state of the design conversation around the most anticipated gov't document in years? Did Seth Abramson really go on a 451-post Twitter binge? I answer it all, and perfect the act of #Resistance, today on TheRedChannel."
 ogimage: https://66.media.tumblr.com/cba89cee8300a1b76d59101cfe70036c/tumblr_pq8im1Acug1y6hh5ro2_1280.jpg
 twitterimage: https://66.media.tumblr.com/963e56d331128e2efe438de09da3207a/tumblr_pq8im1Acug1y6hh5ro1_640.jpg
