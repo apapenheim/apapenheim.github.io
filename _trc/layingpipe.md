@@ -5,7 +5,7 @@ author: Andrew Papenheim
 editor: Andrew Papenheim
 rights: All Rights Reserved
 source: TheRedChannel
-publication-date: 9 April 2019
+publication-date: 2019-04-09
 excerpt: "The leader of the Alberta Liberal Party (unsuccessfully) threw his raunchy red hat into the ring. Let's consider what red hats mean as symbols, and what the heck to do with Alberta."
 ogimage: https://66.media.tumblr.com/8f1d9cc9efbd1ce52bad66bf7ad68987/tumblr_ptecu3PYaL1y6hh5ro1_1280.png
 twitterimage: https://66.media.tumblr.com/35d3d67a825c1adfbf9726f688c3016c/tumblr_ptecu3PYaL1y6hh5ro2_640.png

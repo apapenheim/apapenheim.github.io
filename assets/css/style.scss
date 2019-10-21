@@ -4,3 +4,17 @@ sitemap: false
 
 @import "ed";
 @import "syntax";
+
+a.post-link {
+  display: block;
+  text-decoration: none;
+  &:hover, &:focus {
+    .post-title {
+      text-decoration: underline;
+    }
+  }
+  .post-excerpt {
+    font-size: 0.75em;
+    color: black;
+  }
+}

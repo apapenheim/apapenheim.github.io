@@ -5,7 +5,7 @@ author: Andrew Papenheim
 editor: Andrew Papenheim
 rights: All Rights Reserved
 source: TheRedChannel
-publication-date: 27 June 2019
+publication-date: 2019-06-27
 excerpt: "Notes on visual identity for each 2020 Democratic candidate gracing the stage on the first night of debate in Miami."
 ogimage: https://66.media.tumblr.com/dab8295452eff14c3094ffbe304de6e9/tumblr_ptsjvnOUcP1y6hh5ro1_1280.png
 twitterimage: https://66.media.tumblr.com/7a23544abda3cd0a9813eabead1f43b0/tumblr_ptsjvnOUcP1y6hh5ro2_640.png

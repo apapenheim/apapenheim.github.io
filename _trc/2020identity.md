@@ -5,7 +5,7 @@ author: Andrew Papenheim
 editor: Andrew Papenheim
 rights: All Rights Reserved
 source: TheRedChannel
-publication-date: 10 February 2019
+publication-date: 2019-02-10
 excerpt: "Off to the races! A field guide to the visual identity of the 2020 presidential candidates."
 ogimage: https://66.media.tumblr.com/93329471bad8ca27506d4720efa54f92/tumblr_pmsc11cRfr1y6hh5ro2_1280.jpg
 twitterimage: https://66.media.tumblr.com/3382e859e52dfcdb628bcd7967f0000c/tumblr_pmsc11cRfr1y6hh5ro1_640.png

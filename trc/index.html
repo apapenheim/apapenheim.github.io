@@ -13,33 +13,15 @@ title: "TheRedChannel"
 
 <div class="toc">
   <h2>Table des matières</h2>
-    
+
   <ul class="texts">
-    <ul class="texts">
+    {% for post in site.trc %}
     <li class="text-title">
-      <a href="{{ site.baseurl }}/trc/first-debate-logos-pt1/">
-        Visual Identity at the First Democratic Debate: Day One
+      <a href="{{ post.url }}" class="post-link">
+        <span class="post-title">{{ post.title }}</span>
+        <p class="post-excerpt">{{ post.excerpt }}</p>
       </a>
     </li>
-    <li class="text-title">
-      <a href="{{ site.baseurl }}/trc/horse/">
-        I Have Perfected Resistance
-      </a>
-    </li>
-    <li class="text-title">
-      <a href="{{ site.baseurl }}/trc/layingpipe/">
-        Laying Pipe
-      </a>
-    </li>
-    <li class="text-title">
-      <a href="{{ site.baseurl }}/trc/dnc2020/">
-        DNC 2020 Bid Branding
-      </a>
-    </li>
-    <li class="text-title">
-      <a href="{{ site.baseurl }}/trc/2020identity/">
-        2020 Visual Identity: The View at the Starting Line
-      </a>
-    </li>
+    {% endfor %}
   </ul>
 </div>
