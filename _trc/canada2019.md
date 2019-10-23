@@ -193,7 +193,7 @@ And, for a voter impressed by the prior talking points, that is a revolting pros
 
 > Let's stop Scheer together. **Vote Liberal.**
 
-A clear attempt to cannibalize the Green and NDP vote becomes even more explicit in the second. It opens on a blue duotone of Scheer and Harper yukking it up together and makes clear the state of play:
+A clear attempt to poach the Green and NDP vote becomes even more explicit in the second. It opens on a blue duotone of Scheer and Harper yukking it up together and makes clear the state of play:
 
 > Conservatives could win this election.
 
@@ -207,7 +207,7 @@ While the federal parties may not be allowed to purchase advertising on YouTube,
 
 <div class="ytcontainer"><iframe src="https://www.youtube.com/embed/noFX36JzRCU?rel=0&controls=1&showinfo=0&modestbranding=1" frameborder="0" allowfullscreen class="ytvideo"></iframe></div>
 
-The marquee, 1-minute video spot of the Liberal campaign (titled “Choose Forward”) opens on an STM bus. From that mise-en-scène of the everyman, Trudeau travels around his fabulously multicultural riding of Papineau[^fn3], and the camera stays with him: Smiling, respectfully listening, and observing various babies. While the visuals are a gauzy highlight reel of the Prime Minister’s soft skills, the ad copy is an altogether different beast.
+The marquee, 1-minute video spot of the Liberal campaign (titled “Choose Forward”) opens on an STM bus. From that mise-en-scène of the everyman, Trudeau travels around his fabulously multicultural riding of Papineau[^fn3], and the camera stays with him: Smiling, respectfully listening, and observing various babies. While the visuals are a gauzy highlight reel of the Prime Minister’s soft skills, the ad copy is an altogether different beast. From the 20 second mark onward (i.e., two-thirds of the advert), the voice track, through both reductio-ad-Harper and name-checking Doug Ford's "For the People," establishes the *backwardness* that plays foil to the Liberal Forword. 
 
 [^fn3]: Papineau is a lovely riding of indomitable people and excellent food. I encourage you to visit!
 
@@ -266,7 +266,7 @@ The Tories have done a better job than most of standardizing appearance on their
 
 ![Conservative Party Lawn Signs]({{ site.baseurl }}/images/canada2019/CPC_coroplast2.png)
 
-For all of the stylistic similarity, there are some key differences. Between 2015 and 2019, the definition for Conservative Blue changed from Pantone 286C to the darker Pantone 541C. While the blue got darker, the red ribbon got lighter: Pantone 485C to Pantone 032C. (The tiny 11-point maple leaf in the logo, meanwhile, shifted darker from Pantone 485C to Pantone 187C, making this a three-colour sign.) URW’s <a href="https://fonts.adobe.com/fonts/franklin-gothic-urw" target="_blank">Franklin Gothic Heavy</a> is exchanged for Linotype’s <a href="https://www.fonts.com/font/linotype/avenir/95-black" target="_blank">Avenir</a> as the primary face, joined by a <a href="https://www.fonts.com/font/fontfont/ff-din/condensed-bold-italic" target="_blank">DIN font</a> playing secondary on the call-to-action.
+For all of the stylistic similarity, there are some key differences. Between 2015 and 2019, the definition for Conservative Blue changed from Pantone 286C to the darker Pantone 541C. Alarmingly, this exact spot colour was already claimed by the Bloc Québécois. While the blue got darker, the red ribbon got lighter: Pantone 485C to Pantone 032C. (The tiny 11-point maple leaf in the logo, meanwhile, shifted darker from Pantone 485C to Pantone 187C, making this a three-colour sign.) URW’s <a href="https://fonts.adobe.com/fonts/franklin-gothic-urw" target="_blank">Franklin Gothic Heavy</a> is exchanged for Linotype’s <a href="https://www.fonts.com/font/linotype/avenir/95-black" target="_blank">Avenir</a> as the primary face, joined by a <a href="https://www.fonts.com/font/fontfont/ff-din/condensed-bold-italic" target="_blank">DIN font</a> playing secondary on the call-to-action.
 
 Political design in red, white, and blue is not exactly furrowing new ground. Of all the Canadian electoral signage, these examples are the most similar to work that would be typical of the United States. The re-design, however, was thoughtful. There are serious legibility issues with the deprecated, diagonal call-to-action ribbon which are solved through re-orientation, enlargement, and selection of a legible DIN font. It also evinces real consideration that the quadrilateral of the ribbon follows the form of the parallelogram enclosing the CPC logomark. Space is utilized judiciously, and any ground gained is used to make the candidate’s surname, already quite large in 2015, more prominent. Giving more space to the surname establishes a clearer hierarchy of importance and aids the viewer in recall come election day. It is one of the things I find most successful about Conservative placards.
 
@@ -317,7 +317,7 @@ Andrew Scheer departs from the “Proven Leadership” motif, in no small part d
 
 The use of a hand script in the new slogan is interesting. Fresh. Though it is also something they appear to have cribbed from the 2015 Liberal campaign. Familiar.
 
-For the week running 7 to 13 October, the Conservative Party of Canada spent a total of $262,437 on 711 ads across three Facebook pages. That is *a lot* of advertising for our little country, but it is also $38,193 less and an incredible 2,778 ads fewer than the Liberals over the same week. Per <a href="https://www.macleans.ca/politics/ottawa/how-the-parties-will-try-to-reach-you-this-campaign/" target="_blank">Maclean’s</a>, the Conservative strategists rely less heavily upon digital spend than do the Grits, but no one drops a quarter million dollars in a week on a trifling concern.
+For the week running 7 to 13 October, the Conservative Party of Canada spent a total of $262,437 on 711 ads across three Facebook pages. That is *a lot* of advertising for our little country, but it is also $38,193 less and an incredible 2,778 ads fewer than the Liberals over the same week. Per *<a href="https://www.macleans.ca/politics/ottawa/how-the-parties-will-try-to-reach-you-this-campaign/" target="_blank">Maclean’s</a>*, the Conservative strategists rely less heavily upon digital spend than do the Grits, but no one drops a quarter million dollars in a week on a trifling concern.
 
 ![Conservative Party Facebook Ads]({{ site.baseurl }}/images/canada2019/CPC_social.png)
 
@@ -345,7 +345,7 @@ There is a lot for which the Facebook Ad Library is lacking. The targeting crite
 
 <div class="ytcontainer"><iframe src="https://www.youtube.com/embed/CHly1-6QA_E?rel=0&controls=1&showinfo=0&modestbranding=1" frameborder="0" allowfullscreen class="ytvideo"></iframe></div>
 
-This video ad, published deep into the writ period (17 October), is the spot the CPC really *needed* to produce. A supercut of adoring rally-goers, Scheer puttering around in his campaign bus, and various handshakes, . It is an entirely different beast from <a href="https://youtu.be/wgY0TFvLBgM" target="_blank">the pre-writ ads</a>, with their uneasy pacing, uninspiring backdrops, meek platitude-heavy, and detail-weak presentation. (If I were Andrew Scheer, and I made that ad, I could not muster the courage to look into the camera, either.) And the early writ period advertising…
+This video ad, published deep into the writ period (17 October), is the spot the CPC really *needed* to produce. A supercut of adoring rally-goers, Scheer puttering around in his campaign bus, and various handshakes, it puts some meat on the bones of the everyday affordability pitch encapsulated in their slogan. Common pain points – mortgages, post-secondary tuition, childcare, (and because this is a Conservative ad) petrochemicals – are explicitly name-checked. It is not negative, heavens no, Scheer professes to herald "hope for all." It is an entirely different beast from <a href="https://youtu.be/wgY0TFvLBgM" target="_blank">the pre-writ ads</a>, with their uneasy pacing, uninspiring backdrops, meek platitude-heavy, and detail-weak presentation. (If I were Andrew Scheer, and I made that ad, I could not muster the courage to look into the camera, either.) And the early writ period advertising…
 
 <div class="ytcontainer"><iframe src="https://www.youtube.com/embed/MHFnAExPAd0?rel=0&controls=1&showinfo=0&modestbranding=1" frameborder="0" allowfullscreen class="ytvideo"></iframe></div>
 
@@ -361,7 +361,7 @@ But the gawkiness does not really matter. These ad campaigns are not attempting 
 
 <div class="ytcontainer"><iframe src="https://www.youtube.com/embed/rD0k3p3Iyfg?rel=0&controls=1&showinfo=0&modestbranding=1" frameborder="0" allowfullscreen class="ytvideo"></iframe></div>
 
-A spot from May, long before the writ dropped, opens tight on Donald Trump’s face mid-bloviate. The chyron on the lower-third proclaims “Administration rocked by scandal,” while a news ticker cycles through investigations into scandals, misconduct, and questions of competence. With all the visual furniture of CNN attendant, the camera zooms out and pans over to reveal Trudeau standing next to the U.S. president. The scandals at issue are not Trump’s – they are Justin’s. It was a very smart pre-emptive strike. The Liberals (and anyone with a functioning synapse() recall that Donald Trump is <a href="https://www.pewresearch.org/global/2018/10/01/trumps-international-ratings-remain-low-especially-among-key-allies/" target="_blank">beyond reviled in the court of Canadian public opinion</a>. Every right-of-centre party in the democratic world must be vigilant against messaging tying them to the U.S. administration, lest they wind up with a Trumpian albatross around their neck. It was smart for the Tories to not only pro-actively dispel this, but aggressively retaliate.
+A spot from May, long before the writ dropped, opens tight on Donald Trump’s face mid-bloviate. The chyron on the lower-third proclaims “Administration rocked by scandal,” while a news ticker cycles through investigations into scandals, misconduct, and questions of competence. With all the visual furniture of CNN attendant, the camera zooms out and pans over to reveal Trudeau standing next to the U.S. president. The scandals at issue are not Trump’s – they are Justin’s. It was a very smart pre-emptive strike. The Liberals (and anyone with a functioning synapse) recall that Donald Trump is <a href="https://www.pewresearch.org/global/2018/10/01/trumps-international-ratings-remain-low-especially-among-key-allies/" target="_blank">beyond reviled in the court of Canadian public opinion</a>. Every right-of-centre party in the democratic world must be vigilant against messaging tying them to the U.S. administration, lest they wind up with a Trumpian albatross around their neck. It was smart for the Tories to not only pro-actively dispel this, but aggressively retaliate.
 
 Any explicitly Conservative branding makes itself scarce. The legal disclosure is in small, transparent text in the lower right corner, making the only real indication that this is a CPC communication nothing more than a wispy ghost. It could have just as easily come from another federal party, and it would be a smart advertisement from any party. When this clip was released, I immediately had to text my friends trapped in CPClandia. It was just that good.
 
@@ -728,3 +728,14 @@ There have been many works serving up hot takes on campaign slogans. There have 
 Third-party advocacy organizations, <a href="https://globalnews.ca/news/5925832/canada-proud-spent-more-than-100k-boosting-online-posts-elections-canada-docs/" target="_blank">such as Canada Proud</a>, spend a considerable amount of money on marketing both before and during the writ period. Their efforts reach many Canadians and are significant, but this article is concerned primarily with managed communications from the parties themselves.
 
 The work is also useful for its contemporaneous quality. I wrote it during the federal election period and before results came clear. The salience of marketing campaigns and rhetorical strategy always seem to be blindingly obvious after the fact, and ex post facto punditry has this odd habit of always being perfect. That will not necessarily happen this time. These are my own thoughts, gathered as they happened, during the lived experience of the 2019 campaign.
+
+---
+
+Hi, you made it to the end! I write TheRedChannel to increase civic-minded visual literacy. This work is available to the end user without advertisements and free-of-charge. I really like doing this, and I think it is important to try and keep it this way forever. If you saw something here that made you happy today, please do consider helping to keep the lights on and the servers running.
+
+<p class="centered"><script src="https://donorbox.org/install-popup-button.js" type="text/javascript" defer></script>
+<a class="dbox-donation-button" href="https://donorbox.org/theredchannel?hide_donation_meter=true" style="background:#841212; color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 15px 38px 15px 38px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; box-shadow: 0 1px 0 0 #5c0c0c; text-shadow: 0 1px rgba(0, 0, 0, 0.3);" >Buy me an almond croissant? ♥</a></p>
+
+If you saw something that made you *un*happy today, [please flame me on Twitter](https://twitter.com/apapenheim/)!
+
+---
