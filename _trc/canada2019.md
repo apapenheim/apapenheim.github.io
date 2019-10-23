@@ -690,7 +690,7 @@ You read correctly. Theme song. The campaign theme song is titled, you are not g
 
 # Conclusions
 
-I am really glad that this campaign period is over. It was uniquely exhausting and scandal-ridden in a way that, for people who have been following politics these past few years, was all too familiar in its eroding of every facet of dignity and the human spirit. An interrobanged "You can't be serious?!" has become the byword describing many a confusing and captivating turn-of-events and, spoiler, they almost always are *very much indeed* serious. Let this long national sigh conclude already.
+I am really glad that this campaign period is over. It was, for Canada, uniquely exhausting and scandal-ridden in a way that, for people who have been following politics these past few years, was all too familiar in its eroding of every facet of dignity and the human spirit. An interrobanged "You can't be serious?!" has become the byword describing many a confusing and captivating turn-of-events and, spoiler, they almost always are *very much indeed* serious. Let this long national sigh conclude already.
 
 Who are the winners in this fight?
 
