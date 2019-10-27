@@ -15,7 +15,8 @@ title: "TheRedChannel"
   <h2>Table des matières</h2>
 
   <ul class="texts">
-    {% for post in site.trc %}
+    {% assign posts = site.trc | sort: "publication-date" | reverse %}
+    {% for post in posts %}
     <li class="text-title">
       <a href="{{ post.url }}" class="post-link">
         <span class="post-title">{{ post.title }}</span>
